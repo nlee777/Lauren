@@ -1,0 +1,39 @@
+body {
+    background-color: #B7C2A5;
+}
+
+h1 {
+    color: #5A8064;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.letter {
+    line-height: 1.5em;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1.5em;
+}
+
+.closing {
+    line-height: 1.5em;
+    color: #694A30;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1.5em;
+}
+
+a {   
+    color: white;   
+}
+
+a:hover {
+    color: white;
+  }
+
+a:visited {
+    color: white;
+}
